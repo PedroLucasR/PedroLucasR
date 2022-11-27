@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Pedro Lucas 👋
 
-- 🌱 Atualmente cursando 3° semestre em analise e desenvolvimento de sistemas 
-- 😄 Pronomes: Ele/Dele 
+- 🌱 Atualmente cursando 4° semestre em analise e desenvolvimento de sistemas 
 
 <div align="center">
   <a href="https://github.com/PedroLucasR">
