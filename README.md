@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Lucas 👋
 
-- 🌱 Atualmente cursando 4° semestre em analise e desenvolvimento de sistemas 
+- 🌱 Atualmente cursando 5° semestre em analise e desenvolvimento de sistemas 
 
 <div align="center">
   <a href="https://github.com/PedroLucasR">
